@@ -14,3 +14,7 @@ Can view the task's list based on the task priority and the user can search the 
 Have an option to update or delete the particular task.
 
 
+![Screenshot (7)](https://user-images.githubusercontent.com/41115457/93851935-af232500-fcce-11ea-8945-967f8ed4e624.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/41115457/93852029-ded22d00-fcce-11ea-9447-83799bbf1793.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/41115457/93852039-e42f7780-fcce-11ea-88f7-4dc4e1950f74.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/41115457/93852047-e8f42b80-fcce-11ea-8a1d-059411f09724.png)
